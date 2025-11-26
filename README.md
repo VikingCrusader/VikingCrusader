@@ -25,7 +25,7 @@
 <p>
   <img src="imgs/unihel.png" width="32" />
   <strong>University of Helsinki</strong> — Full Stack Open Course
-  <br/><em>Currently studying Online</em>
+  <br/><em>Currently studying, Online</em>
 </p>
 
 ---
