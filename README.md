@@ -5,14 +5,23 @@ From China 🇨🇳 | CS undergraduate with a passion for programming and self l
 
 🎓 Education Background
 
-🇨🇿 Czech University of Life Sciences Prague — BSc Informatics
-2024.09 – 2027.06
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/CZU_logo.png" width="40" />
+  <strong>Czech University of Life Sciences Prague</strong> — BSc Informatics  
+  <br/><em>2024.09 – 2027.06</em>
+</p>
 
-🇩🇪 Technische Universität Berlin — Summer School: Advanced Java Programming
-2025.07 – 2025.08
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/TU_Berlin_logo.svg" width="40" />
+  <strong>Technische Universität Berlin</strong> — Summer School: Advanced Java Programming  
+  <br/><em>2025.07 – 2025.08</em>
+</p>
 
-🇫🇮 University of Helsinki — Full Stack Open
-Currently studying
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/University_of_Helsinki_logo.svg" width="40" />
+  <strong>University of Helsinki</strong> — Full Stack Open  
+  <br/><em>Currently studying</em>
+</p>
 
 💻 Tech Stack
 
