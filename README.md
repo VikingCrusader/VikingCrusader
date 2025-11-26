@@ -2,7 +2,7 @@
 
 <p align="center">
   From 🇨🇳 China • CS Undergraduate • Passionate about Programming & Self-Learning<br/>
-  Love Coding👾, love photography📷, love Europe!🇪🇺
+  Love Coding👾, love photography📷, love Europe!🇪🇺<br/>
   📍 Based in <strong>Prague, Czechia</strong> 🇨🇿
 </p>
 
