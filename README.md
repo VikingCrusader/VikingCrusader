@@ -12,19 +12,19 @@
 <p>
   <img src="imgs/czulogo.png" width="32" />
   <strong>Czech University of Life Sciences Prague</strong> — BSc Informatics  
-  <br/><em>2024.09 – 2027.06</em>
+  <br/><em>2024.09 – 2027.06 Prague, Czechia</em>
 </p>
 
 <p>
   <img src="imgs/tublogo.png" width="32" />
   <strong>Technische Universität Berlin</strong> — Summer School: Advanced Java Programming  
-  <br/><em>2025.07 – 2025.08</em>
+  <br/><em>2025.07 – 2025.08 Berlin, Germany</em>
 </p>
 
 <p>
   <img src="imgs/unihel.webp" width="32" />
   <strong>University of Helsinki</strong> — Full Stack Open Course
-  <br/><em>Currently studying</em>
+  <br/><em>Currently studying, Online</em>
 </p>
 
 ---
