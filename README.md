@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <img src="imgs/tublogo.png" width="32" />
+  <img src="imgs/tublogo.jpg" width="32" />
   <strong>Technische Universität Berlin</strong> — Summer School: Advanced Java Programming  
   <br/><em>2025.07 – 2025.08 Berlin, Germany</em>
 </p>
