@@ -1,52 +1,61 @@
-Hi, I'm Yiwen Zhang 👋
+<h1 align="center">Hi, I'm <strong>Yiwen Zhang</strong> 👋</h1>
 
-From China 🇨🇳 | CS undergraduate with a passion for programming and self learning
-📍 Currently based in Prague, Czechia 🇨🇿
+<p align="center">
+  From 🇨🇳 China • CS Undergraduate • Passionate about Programming & Self-Learning<br/>
+  📍 Based in <strong>Prague, Czechia</strong> 🇨🇿
+</p>
 
-🎓 Education Background
+---
+
+## 🎓 <strong>Education Background</strong>
 
 <p>
-  <img src="imgs/czulogo.png" width="50" />
+  <img src="imgs/czulogo.png" width="32" />
   <strong>Czech University of Life Sciences Prague</strong> — BSc Informatics  
   <br/><em>2024.09 – 2027.06</em>
 </p>
 
 <p>
-  <img src="imgs/tublogo.png" width="40" />
+  <img src="imgs/tublogo.png" width="32" />
   <strong>Technische Universität Berlin</strong> — Summer School: Advanced Java Programming  
   <br/><em>2025.07 – 2025.08</em>
 </p>
 
 <p>
-  <img src="imgs/unihel.webp" width="40" />
-  <strong>University of Helsinki</strong> — Full Stack Open  
+  <img src="imgs/unihel.webp" width="32" />
+  <strong>University of Helsinki</strong> — Full Stack Open Course
   <br/><em>Currently studying</em>
 </p>
 
-💻 Tech Stack
+---
 
-Frontend : React.js
+## 💻 <strong>Tech Stack</strong>
 
-Backend : Node.js, Java, C# (.NET)
+**Frontend:**  
+- React.js  
 
-🌐 Languages
+**Backend:**  
+- Node.js  
+- Java  
+- C# (.NET)
 
-🇨🇳 Mandarin — Native
+---
 
-🇬🇧 English — Fluent
+## 🌐 <strong>Languages</strong>
 
-🇩🇪 German — Ungefähr B1
+- 🇨🇳 **Mandarin** — Native  
+- 🇬🇧 **English** — Fluent  
+- 🇩🇪 **German** — Approx. B1  
+- 🇨🇿 **Czech** — Basic  
 
-🇨🇿 Czech — Basic
+---
 
-📬 Contact
+## 📬 <strong>Contact</strong>
 
-Time zone: Central European Time (CET, UTC+1)
+- **Time zone:** Central European Time (CET, UTC+1)  
+- **Email:** zhyiwen820@gmail.com • xzhay009@studenti.czu.cz  
+- **Phone:** +420 775 319 455  
+- **Discord:** yiwen2002  
+- **Instagram:** ikbenyiwendesu  
 
-Email: zhyiwen820@gmail.com, xzhay009@studenti.czu.cz
-
-Phone: +420 775 319 455
-
-Discord: yiwen2002
-
-Instagram: ikbenyiwendesu
+---
