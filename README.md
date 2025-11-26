@@ -2,6 +2,7 @@
 
 <p align="center">
   From 🇨🇳 China • CS Undergraduate • Passionate about Programming & Self-Learning<br/>
+  Love Coding👾, love photography📷, love Europe!🇪🇺
   📍 Based in <strong>Prague, Czechia</strong> 🇨🇿
 </p>
 
@@ -45,7 +46,7 @@
 
 - 🇨🇳 **Mandarin** — Native  
 - 🇬🇧 **English** — Fluent  
-- 🇩🇪 **German** — Approx. B1  
+- 🇩🇪 **German** — Ungefähr. B1  
 - 🇨🇿 **Czech** — Basic  
 
 ---
