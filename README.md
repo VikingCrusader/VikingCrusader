@@ -6,13 +6,13 @@ From China 🇨🇳 | CS undergraduate with a passion for programming and self l
 🎓 Education Background
 
 <p>
-  <img src="imgs/czulogo.png" width="40" />
+  <img src="imgs/czulogo.png" width="50" />
   <strong>Czech University of Life Sciences Prague</strong> — BSc Informatics  
   <br/><em>2024.09 – 2027.06</em>
 </p>
 
 <p>
-  <img src="imgs/toblogo.png" width="40" />
+  <img src="imgs/tublogo.png" width="40" />
   <strong>Technische Universität Berlin</strong> — Summer School: Advanced Java Programming  
   <br/><em>2025.07 – 2025.08</em>
 </p>
