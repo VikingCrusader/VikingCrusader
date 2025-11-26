@@ -1,9 +1,49 @@
-Hi I'm Yiwen Zhang, a computer science undergraduate student with a passion for programming! Base in Prague, Czechia.
+Hi, I'm Yiwen Zhang 👋
 
-Education Background:
-🇨🇿Czech University of Life Sciences in Prague, BSc Informatics (2024.9 -- 2027.6)
-🇩🇪Technische Universität Berlin, Summer school of Advanced Java Programming（2025.7 -- 2025.8)
-🇫🇮University of Helsinki (Helsingin yliopisto), Full Stack Open (Currently studying on it!)
+From China 🇨🇳 | CS undergraduate with a passion for programming
+Currently based in Prague, Czechia 🇨🇿
 
-Languages:
-Mandarin (native), English (fluent), German (approximately B1), Czech (basic)
+🎓 Education Background
+
+🇨🇿 Czech University of Life Sciences Prague — BSc Informatics
+2024.09 – 2027.06
+
+🇩🇪 Technische Universität Berlin — Summer School: Advanced Java Programming
+2025.07 – 2025.08
+
+🇫🇮 University of Helsinki — Full Stack Open
+Currently studying
+
+💻 Tech Stack
+
+Frontend
+
+React.js
+
+Backend
+
+Node.js
+
+Java
+
+C# (.NET)
+
+🌐 Languages
+
+Mandarin — Native
+
+English — Fluent
+
+German — Ungefähr B1
+
+Czech — Basic
+
+📬 Contact
+
+Email: zhyiwen820@gmail.com
+
+Phone: +420 775 319 455
+
+Discord: yiwen2002
+
+Instagram: ikbenyiwendesu
