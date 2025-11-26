@@ -31,6 +31,7 @@ Backend : Node.js, Java, C# (.NET)
 🇨🇿 Czech — Basic
 
 📬 Contact
+
 Time zone: Central European Time (CET, UTC+1)
 
 Email: zhyiwen820@gmail.com, xzhay009@studenti.czu.cz
