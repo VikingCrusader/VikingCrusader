@@ -1,7 +1,7 @@
 Hi, I'm Yiwen Zhang 👋
 
-From China 🇨🇳 | CS undergraduate with a passion for programming
-Currently based in Prague, Czechia 🇨🇿
+From China 🇨🇳 | CS undergraduate with a passion for programming and self learning
+📍 Currently based in Prague, Czechia 🇨🇿
 
 🎓 Education Background
 
@@ -16,27 +16,19 @@ Currently studying
 
 💻 Tech Stack
 
-Frontend
+Frontend : React.js
 
-React.js
-
-Backend
-
-Node.js
-
-Java
-
-C# (.NET)
+Backend : Node.js, Java, C# (.NET)
 
 🌐 Languages
 
-Mandarin — Native
+🇨🇳 Mandarin — Native
 
-English — Fluent
+🇬🇧 English — Fluent
 
-German — Ungefähr B1
+🇩🇪 German — Ungefähr B1
 
-Czech — Basic
+🇨🇿 Czech — Basic
 
 📬 Contact
 
