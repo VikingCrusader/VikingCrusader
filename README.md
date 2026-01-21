@@ -22,12 +22,6 @@
   <br/><em>2025.07 – 2025.08 Berlin, Germany</em>
 </p>
 
-<p>
-  <img src="imgs/unihel.png" width="32" />
-  <strong>University of Helsinki</strong> — Full Stack Open Course
-  <br/><em>Currently studying, Online</em>
-</p>
-
 ---
 
 ## 💻 <strong>Tech Stack</strong>
