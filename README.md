@@ -38,10 +38,10 @@
 
 ## 🌐 <strong>Languages</strong>
 
-- 🇨🇳 **Mandarin** — Native  
-- 🇬🇧 **English** — Fluent  
-- 🇩🇪 **German** — Ungefähr. B1  
-- 🇨🇿 **Czech** — Basic  
+- 🇨🇳 **Mandarin** — Native, 繁簡均可讀寫！  
+- 🇬🇧 **English** — Fluent, obtained a C1 IELTS certificate in 2021.
+- 🇩🇪 **German** — Ungefähr B1, aber ich kann mich in Deutsch einfach unterhalten und IT-bezogene Dateien und Kommentaren lesen.
+- 🇨🇿 **Czech** — Basic (duolingo level XD)
 
 ---
 
@@ -51,6 +51,6 @@
 - **Email:** zhyiwen820@gmail.com • xzhay009@studenti.czu.cz  
 - **Phone:** +420 775 319 455  
 - **Discord:** yiwen2002  
-- **Instagram:** ikbenyiwendesu  
+- **Instagram:** evanchang820 
 
 ---
