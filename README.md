@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm <strong>Yiwen Zhang</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Yiwen</strong>,you can also call me Evan! 👋</h1>
 
 <p align="center">
-  From 🇨🇳 China • CS Undergraduate • Passionate about Programming & Self-Learning<br/>
+  CS Undergraduate(Final Year) • Passionate about Programming & Self-Learning<br/>
   Love Coding👾, love photography📷, love Europe!🇪🇺<br/>
   📍 Based in <strong>Prague, Czechia</strong> 🇨🇿
 </p>
