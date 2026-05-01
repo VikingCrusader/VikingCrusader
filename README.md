@@ -15,7 +15,7 @@
 <p>
   <img src="imgs/czulogo.png" width="32" />
   <strong>Czech University of Life Sciences Prague</strong> — BSc Informatics  
-  <br/><em>2024.09 – 2027.06 Prague, Czechia</em>
+  <br/><em>2024.09 – 2027.06 (Expected) Prague, Czechia</em>
 </p>
 
 <p>
