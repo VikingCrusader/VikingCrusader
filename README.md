@@ -6,7 +6,7 @@
   📍 Based in <strong>Prague, Czechia</strong> 🇨🇿
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VikingCrusader&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VikingCrusader&card_width=800&card_height=320)](https://git.io/streak-stats)
 
 ---
 
@@ -23,18 +23,6 @@
   <strong>Technische Universität Berlin</strong> — Summer School: Advanced Java Programming  
   <br/><em>2025.07 – 2025.08 Berlin, Germany</em>
 </p>
-
----
-
-## 💻 <strong>Tech Stack</strong>
-
-**Frontend:**  
-- React.js  
-
-**Backend:**  
-- Node.js  
-- Java  
-- C# (.NET)
 
 ---
 
