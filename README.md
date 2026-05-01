@@ -6,7 +6,7 @@
   📍 Based in <strong>Prague, Czechia</strong> 🇨🇿
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VikingCrusader&card_width=800&card_height=320)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VikingCrusader&card_width=1000&card_height=400)](https://git.io/streak-stats)
 
 ---
 
