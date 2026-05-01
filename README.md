@@ -5,7 +5,7 @@
   Love Coding👾, love photography📷, love Europe!🇪🇺<br/>
   📍 Based in <strong>Prague, Czechia</strong> 🇨🇿
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/VikingCrusaderDenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VikingCrusader)](https://git.io/streak-stats)
 
 ---
 
